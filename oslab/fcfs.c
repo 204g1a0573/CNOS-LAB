@@ -1,9 +1,3 @@
-/*Name:V.Prathyusha
-Roll no:204g1a0573
-title:cpu scheduling using fcfs algorithm
-date of creation:16-9-2022
-date of execution:16-9-2022
-*/
 #include<stdio.h>
 int main()
 {
